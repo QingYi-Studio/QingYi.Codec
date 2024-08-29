@@ -6,6 +6,34 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>QingYi.Codec</Title>
+    <Authors>QingYi-Studio</Authors>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>Codec;String;Text;UTF8</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/QingYi-Studio/QingYi.Codec</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/QingYi-Studio/QingYi.Codec</PackageProjectUrl>
+    <PackageIcon>icon.png</PackageIcon>
+    <Version>1.0.0-beta1</Version>
+    <PackageReleaseNotes>Byte array to Base32.</PackageReleaseNotes>
+    <Description>A simple library for converting byte arrays to strings.
+
+For business please send Issue or contact us directly.</Description>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icon.png" />
+    <None Remove="README.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </Resource>
+    <Resource Include="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </Resource>
+  </ItemGroup>
 
 </Project>
