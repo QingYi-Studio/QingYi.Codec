@@ -1,12 +1,12 @@
 # QingYi.Crypto
 
+WARNING: This project has been merged into the QingYi.Core project.
+
 [![NuGet](https://img.shields.io/nuget/dt/QingYi.Codec.svg)](https://www.nuget.org/packages/QingYi.Codec) [![NuGet](https://img.shields.io/nuget/vpre/QingYi.Codec.svg)](https://www.nuget.org/packages/QingYi.Codec)
 
 A simple library for converting byte arrays to strings.
 
 For business please send Issue or contact us directly.
-
-
 
 ## Installing
 
