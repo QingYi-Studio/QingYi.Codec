@@ -1,6 +1,6 @@
 # QingYi.Crypto
 
-WARNING: This project has been merged into the QingYi.Core project.
+<strong>WARNING:</strong> This project has been merged into the [QingYi.Core](https://github.com/QingYi-Studio/QingYi.Core) project.
 
 [![NuGet](https://img.shields.io/nuget/dt/QingYi.Codec.svg)](https://www.nuget.org/packages/QingYi.Codec) [![NuGet](https://img.shields.io/nuget/vpre/QingYi.Codec.svg)](https://www.nuget.org/packages/QingYi.Codec)
 
